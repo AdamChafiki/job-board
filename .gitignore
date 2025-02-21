@@ -1,0 +1,11 @@
+# Node modules for React
+client/node_modules/
+
+# Laravel vendor folder and environment file
+backend/vendor/
+backend/.env
+
+# Other common ignores
+.DS_Store
+.idea/
+*.log
